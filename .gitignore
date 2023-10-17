@@ -50,3 +50,9 @@ rsconnect/
 
 
 raw_data/
+test.css
+code/
+analyses/
+activelayer.Rproj
+processed_data/
+figures/
