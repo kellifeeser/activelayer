@@ -1,0 +1,12 @@
+name: "activelayer-github-main"
+output:
+  bookdown::html_document2:
+    lib_dir: docs/site_libs
+output_dir: docs
+navbar:
+  title: "Landscape Change: Active Layer Data Visualization"
+  left:
+    - text: "Home"
+      href: index.html
+
+baseurl: "/activelayer/" # Set your base URL here

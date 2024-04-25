@@ -1,0 +1,24 @@
+---
+title: "Landscape Change: Active Layer Data Visualization"
+---
+
+```{r render-site, include=FALSE,eval=F}
+library(rmarkdown)
+library(bookdown)
+
+#knit this then commit and push
+
+#render ReadProcessing
+rmarkdown::render("code/ReadProcessing.Rmd", output_file="/Users/L347123/Desktop/activelayer/docs/github_ReadProcessing")
+
+```
+
+\
+
+\
+
+### Current Analyses (as of 2024) {.unnumbered}
+
+-   <a href="github_ReadProcessing.html" target="_blank">Read and OTU pre-processing</a>
+
+-   x 
