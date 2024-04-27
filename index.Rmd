@@ -11,6 +11,9 @@ library(bookdown)
 #render ReadProcessing
 rmarkdown::render("code/ReadProcessing.Rmd", output_file="/Users/L347123/Desktop/activelayer/docs/github_ReadProcessing")
 
+#render Taxonomy
+rmarkdown::render("code/AL_taxonomy.Rmd", output_file="/Users/L347123/Desktop/activelayer/docs/github_taxonomy")
+
 ```
 
 \
@@ -21,4 +24,4 @@ rmarkdown::render("code/ReadProcessing.Rmd", output_file="/Users/L347123/Desktop
 
 -   <a href="github_ReadProcessing.html" target="_blank">Read and OTU pre-processing</a>
 
--   x 
+-   <a href="github_taxonomy.html" target="_blank">Taxonomy</a>
