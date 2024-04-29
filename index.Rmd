@@ -14,6 +14,9 @@ rmarkdown::render("code/ReadProcessing.Rmd", output_file="/Users/L347123/Desktop
 #render Taxonomy
 rmarkdown::render("code/AL_taxonomy.Rmd", output_file="/Users/L347123/Desktop/activelayer/docs/github_taxonomy")
 
+#render AL_DyanamicsAlongDepth
+rmarkdown::render("code/AL_DyanamicsAlongDepth.Rmd", output_file="/Users/L347123/Desktop/activelayer/docs/github_AL_DynamicsAlongDepth")
+
 ```
 
 \
@@ -25,3 +28,17 @@ rmarkdown::render("code/AL_taxonomy.Rmd", output_file="/Users/L347123/Desktop/ac
 -   <a href="github_ReadProcessing.html" target="_blank">Read and OTU pre-processing</a>
 
 -   <a href="github_taxonomy.html" target="_blank">Taxonomy</a>
+
+-   <a href="github_AL_DynamicsAlongDepth.html" target="_blank">Exploring community dynamics along depth profiles (just started this)</a>
+
+
+\
+\
+\
+\
+\
+\
+\
+\
+\
+
