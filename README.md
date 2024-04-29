@@ -4,7 +4,7 @@ Exploring microbial community dynamics along depth profiles of active Antarctic 
 
 For analyses and figures, click here: [kellifeeser.github.io/activelayer/](kellifeeser.github.io/activelayer/)
 
-### Processed data files stored here (Github): {.unnumbered}
+### Processed data files stored here (Github):
 
 -   **Taxonomy** - analyses/taxonomy/\*.csv
 

@@ -2,7 +2,7 @@
 title: "**Active Layer: 16S Amplicon Pre-processing**"
 subtitle: "Raw sequence processing and OTU table generation using usearch v11, OTU table cleaning using phyloseq (R), and basic data overview"
 author: "Kelli Feeser"
-date: '2023-08'
+date: '2023-08-01'
 output:
   bookdown::html_document2:
     code_folding: hide
